@@ -1,6 +1,6 @@
 ## Olá! Eu sou Luis Carlos
 
-- 🌱 Estudando  Banco de dados
+- 🌱 Estudando Laravel
 
 <div align="center">
   <a href="https://github.com/LuisCarlosS">
