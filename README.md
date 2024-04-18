@@ -1,6 +1,6 @@
 ## Olá! Eu sou Luis Carlos
 
-- 🌱 Estudando Laravel
+- 🌱 Estudando Node.js
 
 <div align="center">
   <a href="https://github.com/LuisCarlosS">
